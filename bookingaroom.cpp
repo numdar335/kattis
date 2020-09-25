@@ -8,14 +8,14 @@ int main() {
   cin >> r >> n;
   if (r == n) cout << "too late\n";
   else {
-    for (i = 0; i < r; ++i) A[i] = true;
-    for (i = 0; i < n; ++i) {
+    for (i = 1; i <= r; ++i) A[i-1] = true;
+    for (i = 1; i <= n; ++i) {
       cin >> m;
       A[m-1] = false;
     }
-    for (i = 0; i < r; ++i)
-      if (A[i]) {
-        cout << i+1 << "\n";
+    for (i = 1; i <= r; ++i)
+      if (A[i-1]) {
+        cout << i << "\n";
         i = r+1;
       }
   }
