@@ -1,6 +1,6 @@
 # kattis
 
-Here are my solutions to some algorithmic problems I found on the [Kattis Problem Archive](https://open.kattis.com).
+Here are my solutions to some of the algorithmic problems I found on the [Kattis Problem Archive](https://open.kattis.com).
 
 I'm actually one of the top 15 [highest-ranked Kattis problem solvers in my country](https://open.kattis.com/countries/GRC)! But to be honest, that isn't impressive at all, there are only 80 Kattis users in my country, and I only had to solve a few easy problems to rank in the top 15. Oh well.
 
