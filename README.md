@@ -4,6 +4,6 @@ Here are my solutions to <ins>some</ins> of the algorithmic problems I found on 
 
 I'm actually one of the top 15 [highest-ranked Kattis problem solvers in my country](https://open.kattis.com/countries/GRC)! But to be honest, that isn't impressive at all, there are only 85 Kattis users in my country, and I only had to solve a few easy problems to rank in the top 15. Oh well.
 
-My solutions are coded differently compared to way I normally code (I further explain this [here](https://github.com/numdar335/programming_contests/blob/master/README.md)).
+My solutions are coded differently compared to way I normally code (I further explain this [here](https://github.com/numdar335/programming_contests/blob/master/Note.md)).
 
 <sub>**Copyright notice:** well, according to GitHub, people have surprisingly cloned this repository **a lot of** times, so I just wanted to say that [I currently have no reason to offer a license](https://choosealicense.com/no-permission/) for this repository, and therefore you’re **only** allowed to view & clone it. You’re **not** allowed to redistribute it, or to distribute any derivative works etc **:(**</sub>
