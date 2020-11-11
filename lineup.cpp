@@ -14,5 +14,4 @@ int main() {
   if (i_flag == true) cout << "INCREASING\n";
   else if (d_flag == true) cout << "DECREASING\n";
   else cout << "NEITHER\n";
-  return 0;
 }
