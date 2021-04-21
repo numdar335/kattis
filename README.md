@@ -6,4 +6,4 @@ I'm actually one of the top 15 [highest-ranked Kattis problem solvers in my coun
 
 My solutions are coded differently compared to way I normally code (I further explain this [here](https://github.com/numdar335/programming_contests/blob/master/note.md)).
 
-Uhh also keep in mind that most of my code here is **far** from optimal in terms of formatting and tweaking, and I feel really insecure about it but then again I don't really want to fix it, it is **a lot** of code after all.
+Uhh I also have to point out that most of my code here is **far** from optimal in terms of formatting and tweaking, and I feel really insecure about it but then again I don't really want to fix it, it is **a lot** of code after all.
